@@ -5,7 +5,7 @@
    
 }
 body{
-background-color: rgba(37, 58, 61, 0.856);
+background-color: rgba(61, 37, 37, 0.856);
 }
 .sec1 {
   background-color: rgb(255, 255, 255);
@@ -20,7 +20,7 @@ background-color: rgba(37, 58, 61, 0.856);
 }
 
 .sec2 { 
-  background-color: rgb(7, 125, 180);
+  background-color: rgb(136, 62, 55);
   position: absolute;
   top: 5%;
   right: 55%;
@@ -37,7 +37,7 @@ background-color: rgba(37, 58, 61, 0.856);
   right: 68%;
   width: 8%;
   color: black;
-  background-color: rgb(7, 125, 180) ;
+  background-color: rgb(180, 74, 56) ;
 }
 .secregform{
   position: absolute;
@@ -68,8 +68,8 @@ input[type = "text"],input[type = "email"],input[type = "date"] {
  height: 40px;
  border-radius: 5px;
  text-align: center;
- background-color: rgba(41, 136, 160, 0.397) ;
- border: rgb(37, 123, 145) 2px solid;
+ background-color: rgba(180, 104, 81, 0.397) ;
+ border: rgb(146, 40, 30) 2px solid;
  
 }
 ::placeholder{
@@ -110,7 +110,7 @@ input[type = "text"],input[type = "email"],input[type = "date"] {
   border-radius: 5px;
   border: 20px;
   padding: 15px 25px 15px 25px;
-  background-color: rgba(200, 200, 200, 0.781);
+  background-color: rgba(53, 38, 38, 0.781);
 
 }
 .send:hover{
